@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: selenium_tests.TestRun.SeleniumTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.335 s <<< FAILURE! - in selenium_tests.TestRun.SeleniumTests
+A scenario(Test Scenario)  Time elapsed: 2.649 s  <<< ERROR!
+cucumber.runtime.CucumberException: Failed to instantiate class selenium_tests.stepdefinition.test - this class doesn't have an empty or a page enabled constructor"
+Caused by: java.lang.NoSuchMethodException: selenium_tests.stepdefinition.test.<init>()
+
