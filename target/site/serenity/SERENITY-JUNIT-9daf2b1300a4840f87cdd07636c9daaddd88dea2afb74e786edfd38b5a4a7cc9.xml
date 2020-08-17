@@ -1,1 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Test Scenario" skipped="0" tests="1" time="6.27" timestamp="2020-08-14 08:57:34"><testcase name="A scenario"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Test Scenario" skipped="0" tests="1" time="5.87" timestamp="2020-08-17 03:51:42"><testcase name="A scenario"><failure message="Test Failed" type="java.lang.AssertionError">Test Failed</failure><system-err>Test Failed&#13;
+seleniumtests.stepdefinition.Test.theUserSearchBjss(Test.java:22)&#13;
+✽.the user search BJSS(src/test/java/seleniumtests/features/test.feature:8)&#13;
+</system-err></testcase></testsuite>

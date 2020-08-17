@@ -1,4 +1,5 @@
-selenium_tests\steplibrary\LandingStepLib.class
-selenium_tests\pages\LandingPage.class
-selenium_tests\stepdefinition\test.class
-selenium_tests\TestRun\SeleniumTests.class
+seleniumtests\steplibrary\LandingStepLib.class
+seleniumtests\stepdefinition\Hooks.class
+seleniumtests\testrun\SeleniumTests.class
+seleniumtests\stepdefinition\Test.class
+seleniumtests\pages\LandingPage.class
